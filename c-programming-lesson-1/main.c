@@ -2,7 +2,7 @@
 int main () {
 
     printf("Merhaba 42 ecole!\n");
-    printf("C proglamlamalarına hoş geldiniz !\n");
+    printf("C programlama derslerine hoşgeldiniz !\n");
 
     return 0;
 }
